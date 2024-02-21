@@ -1,4 +1,4 @@
-Curso practico de plazi sobre manejo de versiones con git y github
+Curso teórico y practico de Plazi sobre manejo de versiones con Git y Github
 
 Realizado por Johan Camilo Lozano Ramírez
 
