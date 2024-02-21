@@ -1,3 +1,5 @@
 Curso practico de plazi sobre manejo de versiones con git y github
 
 Hecho por Johan Camilo Lozano Ramírez
+
+Fecha de inicio del curso: 20-02-2024
