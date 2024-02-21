@@ -4,3 +4,6 @@
 .bg-violet {
   background-color: blueviolet;
 }
+.border-violet {
+  border-color: blueviolet !important;
+}
