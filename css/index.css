@@ -7,3 +7,15 @@
 .border-violet {
   border-color: blueviolet !important;
 }
+.icon-sm {
+  width: 25px;
+}
+.icon {
+  width: 30px;
+}
+.icon-md {
+  width: 35px;
+}
+.invert {
+  filter: grayscale(100%) invert(1);
+}
